@@ -1,0 +1,31 @@
+{
+  "name": "hubotjira",
+  "description": "An updated version of the hubot jira script",
+  "version": "1.0.0",
+  "authors": [
+    "Murali Krishna"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "jira"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:murali2020kris/hubotjira.git"
+  },
+  "bugs": {
+    "url": "https://github.com/murali2020kris/hubotjira/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "main": "index.coffee",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
